@@ -1,1 +1,1 @@
-Template file for my rags
+# rag-frontend-template
